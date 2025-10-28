@@ -63,7 +63,9 @@ Router# reload
 **5. настройка telnet**
 
 [![telnet](./img/telnet.png)]()
+
 [![telnet](./img/switch_ip.png)]()
+
 [![telnet](./img/telnet_switch.png)]()
 
 **6. настройка консоли на роутере**
@@ -74,5 +76,7 @@ Router# reload
 ### **На самой защите посмотрели**
 
 [![protection](./img/protection1.png)]()
+
 [![protection](./img/protection2.png)]()
+
 [![protection](./img/protection3.png)]()
